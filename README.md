@@ -1,1 +1,1 @@
-![Now Playing](https://lastfm-recently-played.vercel.app/api?user=huwiee&width=600)
+![Now Playing](https://lastfm-recently-played.vercel.app/api?user=huwiee&width=200)
